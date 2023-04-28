@@ -1,6 +1,13 @@
 # Java boy vs C girl
-Are u part of the Java crew or the C gang?
+## Are u part of the Java crew or the C gang?
 
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+    # Java boy vs C girl
+Are u part of the Java crew or the C gang?
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
 <div style="display:flex; justify-content:space-around; align-items:center;">
     <div style="display:flex; flex-direction:column; position:relative; height:fit-content;">
         <img src="https://avatars.githubusercontent.com/u/113733780?v=4" alt="Armando" style="height:200px; border-radius:100px;">
@@ -16,3 +23,9 @@ Are u part of the Java crew or the C gang?
         </div>
     </div>  
 </div>
+
+  </foreignObject>
+</svg>
+    </div>
+  </foreignObject>
+</svg>
