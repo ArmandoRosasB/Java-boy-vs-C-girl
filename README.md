@@ -1,7 +1,8 @@
 # Java boy vs C girl
 Are u part of the Java crew or the C gang?
 
-<div style="display:flex; justify-content:space-around; align-items:center;">
+<img src="./Extras/Background.png" alt="Armando VS Ramona" width="100%">
+<!-- <div style="display:flex; justify-content:space-around; align-items:center;">
     <div style="display:flex; flex-direction:column; position:relative; height:fit-content;">
         <img src="https://avatars.githubusercontent.com/u/113733780?v=4" alt="Armando" style="height:200px; border-radius:100px;">
         <div style="background:white; position:absolute; border-radius:100px; height:50px; bottom:1px;  right:5px">
@@ -15,4 +16,4 @@ Are u part of the Java crew or the C gang?
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" href="https://cplusplus.com" alt="C++ logo" style="height:50px; width:50px">
         </div>
     </div>  
-</div>
+</div> -->
