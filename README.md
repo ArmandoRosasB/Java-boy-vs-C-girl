@@ -1,7 +1,7 @@
 # Java boy vs C girl
 ## Are u part of the Java crew or the C gang?
 
-<img src="./Extras/Background.png" alt="Armando VS Ramona" width="100%">
+<img src="./Extras/Background.PNG" alt="Armando VS Ramona" width="100%">
 <!-- <div style="display:flex; justify-content:space-around; align-items:center;">
     <div style="display:flex; flex-direction:column; position:relative; height:fit-content;">
         <img src="https://avatars.githubusercontent.com/u/113733780?v=4" alt="Armando" style="height:200px; border-radius:100px;">
